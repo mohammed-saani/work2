@@ -1,0 +1,25 @@
+*{
+   
+    bac
+}
+
+body{
+    background-color: white-space;
+    background-image: url("/msa.jpg");
+    background-attachment: fixed;
+    background-repeat:no repeat;
+    background-position:active
+    font: 100%
+    margin 20px
+    lineheigth 26px
+}
+#top{
+    color: black;
+    padding: 15px;
+}
+
+{
+    background-image: url("img_tree.png");
+    background-repeat: no-repeat;
+    background color-position:center;
+}
